@@ -1,0 +1,22 @@
+com/proyecto/game/Bala.java
+ com.proyecto.game.Bala
+com/proyecto/game/ScoreBoard.java
+ com.proyecto.game.ScoreBoard
+ com.proyecto.game.ScoreBoard$Score
+com/proyecto/game/Utils.java
+ com.proyecto.game.Utils
+com/proyecto/game/Nave.java
+ com.proyecto.game.Nave
+com/proyecto/game/Temporizador.java
+ com.proyecto.game.Temporizador
+com/proyecto/game/Fondo.java
+ com.proyecto.game.Fondo
+com/proyecto/game/Animacion.java
+ com.proyecto.game.Animacion
+com/proyecto/game/ScoreBoard2.java
+ com.proyecto.game.ScoreBoard2
+ com.proyecto.game.ScoreBoard2$Score
+com/proyecto/game/MyGdxGame.java
+ com.proyecto.game.MyGdxGame
+com/proyecto/game/Alien.java
+ com.proyecto.game.Alien
